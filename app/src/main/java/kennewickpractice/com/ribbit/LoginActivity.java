@@ -322,7 +322,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                     return pieces[1].equals(mPassword);
                 }
             }
-
+//Make it look nice
             // TODO: register the new account here.
             return true;
         }
