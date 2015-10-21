@@ -22,4 +22,5 @@
     <string name="Username">username_hint</string>
     <string name="username_hint">Username</string>
     <string name="login_button_label">Login</string>
+    <string name="title_activity_sign_up">signUpActivity</string>
 </resources>
